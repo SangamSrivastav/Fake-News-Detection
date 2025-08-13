@@ -1,12 +1,12 @@
-# 📧 Fake Email Detection
+# 📧 Fake News Detection
 
-🚫✉️ Say goodbye to spam! This project helps identify fake emails using Natural Language Processing (NLP) and Machine Learning. It leverages classic classification models combined with powerful vectorization techniques to accurately classify emails as real or fake.
+🚫✉️ Say goodbye to spam! This project helps identify fake news using Natural Language Processing (NLP) and Machine Learning. It leverages classic classification models combined with powerful vectorization techniques to accurately classify emails as real or fake.
 
 ---
 
 ## 🔍 Project Overview
 
-Fake or spam emails are a widespread issue in digital communication. This project builds an intelligent classifier that analyzes email content and predicts whether it's legitimate or fake — with **up to 98.7% accuracy**!
+Fake or spam news are a widespread issue in digital communication. This project builds an intelligent classifier that analyzes email content and predicts whether it's legitimate or fake — with **up to 98.7% accuracy**!
 
 ---
 
