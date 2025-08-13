@@ -6,7 +6,7 @@
 
 ## 🔍 Project Overview
 
-Fake or spam news are a widespread issue in digital communication. This project builds an intelligent classifier that analyzes email content and predicts whether it's legitimate or fake — with **up to 98.7% accuracy**!
+Fake or spam news are a widespread issue in digital communication. This project builds an intelligent classifier that analyzes news content and predicts whether it's legitimate or fake — with **up to 98.7% accuracy**!
 
 ---
 
